@@ -6,7 +6,7 @@ A feature-rich, intelligent weather application built for the CodeSpark 72 Hour 
 
 ## 🎯 **Live Demo**
 
-[🌐 **Try the Weather App Live**](https://your-weather-app-url.com) *(Replace with your deployed URL)*
+[🌐 **Try the Weather App Live**](https://your-weather-app-url.com)
 
 
 ## ✨ **Key Features**
