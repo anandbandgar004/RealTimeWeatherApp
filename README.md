@@ -85,7 +85,6 @@ A feature-rich, intelligent weather application built for the CodeSpark 72 Hour 
 - **OpenWeatherMap API** - Real-time weather data
 - **Geolocation API** - Browser location services
 - **Web Speech API** - Voice recognition and speech-to-text
-- **Web Audio API** - Audio playback and control
 
 ### Design & UX
 - **Google Fonts (Poppins)** - Modern typography
