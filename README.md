@@ -8,19 +8,6 @@ A feature-rich, intelligent weather application built for the CodeSpark 72 Hour 
 
 [🌐 **Try the Weather App Live**](https://your-weather-app-url.com) *(Replace with your deployed URL)*
 
-## 📸 **Screenshots**
-
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-
-### Voice Search in Action
-![Voice Search](screenshots/voice-search.png)
-
-### Smart Weather Tips
-![Weather Tips](screenshots/weather-tips.png)
-
-### Dynamic Backgrounds
-![Backgrounds](screenshots/dynamic-backgrounds.png)
 
 ## ✨ **Key Features**
 
