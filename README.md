@@ -13,7 +13,6 @@ A feature-rich, intelligent weather application built for the CodeSpark 72 Hour 
 
 ### 🌍 **Core Weather Functionality**
 - 🔍 **Real-time Weather Data** - Powered by OpenWeatherMap API
-- 📍 **Location Services** - Get weather for current location using GPS
 - 🌡️ **Temperature Units** - Toggle between Celsius and Fahrenheit
 - 📊 **Comprehensive Stats** - Humidity, pressure, wind speed, visibility, cloudiness
 - 🌅 **Sun Times** - Sunrise and sunset information
