@@ -1,6 +1,6 @@
 # 🌤️ Weather App - CodeSpark Challenge
 
-A feature-rich, intelligent weather application built for the CodeSpark 72 Hour Build Challenge. This app combines real-time weather data with AI-powered suggestions, voice search, dynamic backgrounds, and weather-based music for an immersive user experience.
+A feature-rich, intelligent weather application built for the CodeSpark 72 Hour Build Challenge. This app combines real-time weather data with voice search, dynamic backgrounds, and weather-based music for an immersive user experience.
 
 ![Weather App Demo](https://img.shields.io/badge/Status-Live-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 
