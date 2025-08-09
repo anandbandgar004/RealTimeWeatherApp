@@ -99,6 +99,3 @@ A feature-rich, intelligent weather application built for the CodeSpark 72 Hour 
 - Web server (local or remote) for HTTPS (required for voice search)
 - OpenWeatherMap API key
 
-### Quick Start
-
-1. **Clone the Repository**
